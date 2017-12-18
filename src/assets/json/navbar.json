@@ -1,0 +1,31 @@
+[
+    {
+        "id" : 1,
+        "role" : "user",
+        "options" : [
+            {"title":"Products", "path" : "/passenger-account"},
+            {"title":"Companies", "path" : "/passenger-topup"},
+            {"title":"Company Login", "path" : "/passenger-history"},
+            {"title":"Post your Ad", "path" : "/#"},
+            {"title":"About Us", "path" : "/#"},
+            {"title":"Contact Us", "path" : "/#"}
+        ]
+
+    },
+    {
+        "id" : 2,
+        "role" : "company",
+        "options" : [
+            {"title":"Products", "path" : "/passenger-account"},
+            {"title":"Companies", "path" : "/passenger-topup"},
+            {"title":"Post your Ad", "path" : "/#"},
+            {"title":"About Us", "path" : "/#"},
+            {"title":"Contact Us", "path" : "/#"}
+        ]
+
+    }
+
+
+
+
+]
