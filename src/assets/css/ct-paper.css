@@ -1613,8 +1613,8 @@ textarea.form-control {
 
 .navbar {
   border: 0;
-  font-size: 16px;
-  padding: 10px;
+  font-size: 15px;
+  padding: 0px;
   z-index: 3;
 }
 .navbar .navbar-brand {
@@ -1624,9 +1624,9 @@ textarea.form-control {
   font-size: 22px;
 }
 .navbar .navbar-nav > li > a {
-  line-height: 1.42857;
-  margin: 15px 3px;
-  padding: 10px 15px;
+  line-height: 2.5;
+  margin: 0px 0px;
+  padding: 15px 15px;
 }
 .navbar .navbar-nav > li > a.btn {
   margin: 15px 3px;
@@ -1822,6 +1822,10 @@ textarea.form-control {
 
 .navbar-ct-info {
   background-color: #7CE4FE;
+}
+
+.navbar-ct-primary2 {
+  background-color: rgb(120, 175, 180);
 }
 
 .navbar-ct-success {
@@ -2442,8 +2446,8 @@ textarea.form-control {
 .carousel-inner > .item > a > img {
   border-radius: 8px;
   box-shadow: 0 2px 2px rgba(204, 197, 185, 0.5);
-  margin-left: 25%;
-  max-width: 50%;
+  margin-left: 0%;
+  max-width: 100%;
 }
 
 .carousel-indicators {

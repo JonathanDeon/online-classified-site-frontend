@@ -3,7 +3,7 @@
         "id" : 1,
         "role" : "user",
         "options" : [
-            {"title":"Products", "path" : "/passenger-account"},
+            {"title":"Products", "path" : "/product-list"},
             {"title":"Companies", "path" : "/passenger-topup"},
             {"title":"Company Login", "path" : "/passenger-history"},
             {"title":"Post your Ad", "path" : "/#"},
