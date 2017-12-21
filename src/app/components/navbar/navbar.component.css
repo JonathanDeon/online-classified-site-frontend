@@ -1,0 +1,8 @@
+.parent{
+    position: fixed; 
+       background: url('http://localhost:4200/assets/paper_img/site.jpg');
+       background-repeat: repeat;
+       opacity: 0.15;
+       height:35%;
+       width:100%;
+   }
