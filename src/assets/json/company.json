@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "title" : "Samsung",
+        "price" : "150K",
+        "description" : "test 123",
+        "imageUrl" : "../assets/ads/premio.jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "Nokia",
+        "price" : "150K",
+        "description" : "test 123",
+        "imageUrl" : "../assets/ads/toyota.jpg"
+
+    }
+]
