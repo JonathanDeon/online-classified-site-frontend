@@ -4,11 +4,11 @@
         "role" : "user",
         "options" : [
             {"title":"Products", "path" : "/product-list"},
-            {"title":"Companies", "path" : "/passenger-topup"},
-            {"title":"Company Login", "path" : "/passenger-history"},
-            {"title":"Post your Ad", "path" : "/#"},
-            {"title":"About Us", "path" : "/#"},
-            {"title":"Contact Us", "path" : "/#"}
+            {"title":"Companies", "path" : "/company-list"},
+            {"title":"Company Login", "path" : "/company-login"},
+            {"title":"Post your Ad", "path" : "/post-ad"},
+            {"title":"About Us", "path" : "/aboutus"},
+            {"title":"Contact Us", "path" : "/contactus"}
         ]
 
     },

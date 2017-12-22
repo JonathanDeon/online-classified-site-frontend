@@ -61,18 +61,18 @@
 </div>
 <div style="overflow-y: scroll;height:450px">
 <div class="row" style="margin-top:1%;margin-left:1%;margin-right:1%;margin-bottom:1%;">
-  <div class="col-md-2 col-md-offset-0" *ngFor="let ad of ads" style="margin-top:1%;">
+  <div class="col-md-2 col-md-offset-0" *ngFor="let company of companies" style="margin-top:1%;">
     <div class="card" style="background-color:#f1f1f1;">
       <div class="card-body" style="padding-left:1%;padding-top:1%;padding-bottom:1%;padding-right:1%">
         <div class="row">
           <div class="col-md-12 col-md-offset-0" data-toggle="modal" data-target="#itemDetails">
-            <img [src]="ad.imageUrl" height="125px" alt="Card image cap" width="100%">
+            <img [src]="company.imageUrl" height="125px" alt="Card image cap" width="100%">
           </div>
         </div>
         <div class="row">
           <div class="col-md-12">
-            <h4 class="card-title">{{ad.title}}</h4>
-            <p class="card-text">{{ad.description}}</p>
+            <h4 class="card-title">{{company.title}}</h4>
+            <p class="card-text">{{company.description}}</p>
             <div class="row">
               <div class="col-md-6">
                 <h6 class="waves-effect p-2 text-danger">

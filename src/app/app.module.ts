@@ -9,6 +9,11 @@ import { HomeComponent } from './home/home.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { ProductListComponent } from './product-list/product-list.component';
+import { CompanyListComponent } from './company-list/company-list.component';
+import { CompanyLoginComponent } from './company-login/company-login.component';
+import { PostAdComponent } from './post-ad/post-ad.component';
+import { AboutUsComponent } from './about-us/about-us.component';
+import { ContactUsComponent } from './contact-us/contact-us.component';
 
 
 @NgModule({
@@ -17,7 +22,12 @@ import { ProductListComponent } from './product-list/product-list.component';
     HomeComponent,
     FooterComponent,
     NavbarComponent,
-    ProductListComponent
+    ProductListComponent,
+    CompanyListComponent,
+    CompanyLoginComponent,
+    PostAdComponent,
+    AboutUsComponent,
+    ContactUsComponent
   ],
   imports: [
     BrowserModule,
